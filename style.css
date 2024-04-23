@@ -1,0 +1,168 @@
+
+.image1{
+padding-top: 66px;
+padding-left: 52px;
+}
+.header1{
+    display: inline-block;
+}
+li{
+    display: inline-block;
+    color: #8D81FF;
+    font-family:FiraGO;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-left: 87px;
+}
+.mya{
+color: #4E6FAE;
+font-family: FiraGO;
+font-size: 26px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.myh3{
+    color: #8D81FF;
+    font-family: "BPG Nino Mkhedruli";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 52px;
+    padding-top: 18px;
+}
+.myp{
+    color: #4E6FAE;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-left: 52px;
+    padding-top: 8px;
+    font-family: "BPG Nino Mtavruli", sans-serif;
+}
+.border{
+width: 50px;  
+height: 50px;
+background: #5012D5;
+color: #84FF81;
+font-family: Helvetica;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding: 10px;
+margin-left: 52px;
+margin-top: 52px;
+   
+}
+.image2{
+    padding-left: 52px;
+    padding-top: 12px;
+}
+.myp2{
+ color: #4E6FAE;
+font-family: "GL Kirovi";
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+display: inline-block;
+width: 778px;
+height: 353px;
+padding-left: 66px;
+padding-right: 97px;
+vertical-align: top;
+padding-top: 32px;
+}
+.border1{
+    width: 50px;  
+    height: 50px;
+    background: #5012D5;
+    color: #84FF81;
+    font-family: Helvetica;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 10px;
+    margin-left: 52px;
+    margin-top: 52px;
+}
+
+.myp1{
+width: 778px;
+height: 280px;
+color: #4E6FAE;
+font-family: "GL Kirovi";
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+padding-left: 52px;
+display: inline-block;
+vertical-align: top;
+}
+.myp3{
+    color: #4E6FAE;
+    font-family: "GL Kirovi";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-left: 52px;
+    padding-right: 97px;
+    width: 1021px;
+    height: 148px;
+    padding-top: 32px;
+}
+.mydiv{
+    display: inline-block;
+    padding-left: 41px;
+    padding-top: 145px;
+    padding-bottom: 285px;
+}
+.facebooklogo{
+    padding-right: 41px;
+}
+.youtubelogo{
+    padding-left: 41px
+}
+ 
+.image4{
+    padding-left: 194px;
+    padding-top: 97px;
+ 
+}
+.div2{
+    margin-left: 194px;
+    margin-top: 120px;
+}
+.myh5{
+    color: #4E6FAE;
+    font-family: FiraGO;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    display: inline-block;
+}
+.line{
+display: inline-block;
+margin-left: 18px;
+margin-right: 18px;
+}
+.myh6{
+    color: #4E6FAE;
+    font-family: FiraGO;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline-block;
+}
+
