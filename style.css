@@ -191,10 +191,7 @@ padding-top: 26px;
 }
 .randomtext{
     color: #7E8898;
-    font-family: Roboto;
     font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
     line-height: normal;
     display: inline-block;
     width: 320px;
@@ -202,6 +199,9 @@ padding-top: 26px;
     padding-top: 35px;
     padding-left: 15px;
     vertical-align: top;
+    font-family: "Roboto", sans-serif;
+   font-weight: 400;
+   font-style: normal;
     
 }
 
