@@ -165,4 +165,137 @@ margin-right: 18px;
     line-height: normal;
     display: inline-block;
 }
+.container{
+    width: 500px;
+    height: 192px;
+    background: #E7E7E7;
+    margin-top: 26px;
+    display: inline-block;
+    margin-left: 194px;
+    vertical-align: top;
+}
+.webpage{
+    color: #3F4145;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 23px;
+    padding-left: 21px;
+}
+.htmlimage{
+padding-left: 36px;
+padding-bottom: 41px;
+padding-top: 26px;
+}
+.randomtext{
+    color: #7E8898;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline-block;
+    width: 320px;
+    height: 95px;
+    padding-top: 35px;
+    padding-left: 15px;
+    vertical-align: top;
+    
+}
+
+.container2{
+    width: 500px;
+    height: 192px;
+    background: #E7E7E7;
+    margin-top: 26px;
+    display: inline-block;
+    margin-left: 52px;
+    
+}
+.webpage2{
+    color: #3F4145;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 23px;
+    padding-left: 21px;
+}
+.htmlimage2{
+padding-left: 36px;
+padding-bottom: 41px;
+padding-top: 26px;
+}
+.randomtext2{
+    color: #7E8898;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline-block;
+    width: 320px;
+    height: 95px;
+    padding-top: 35px;
+    padding-left: 15px;
+    vertical-align: top;
+    
+}
+.mydiv7{
+    margin-left: 194px;
+    margin-top: 94px;
+    margin-bottom: 194px;
+}
+.container3{
+    margin-top: 93px;
+    margin-left: 162px;
+    display: inline-block;
+    vertical-align: top;
+}
+.myp10{
+    color: #7E8898;
+    font-family: "Helvetica Neue LT GEO";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline-block;
+    padding-top: 11px;
+}
+.myp11{
+    color: #3F4145;
+    font-family: "Helvetica Neue LT GEO";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline-block;
+}
+.myh12{
+color: #4E6FAE;
+font-family: "Helvetica Neue";
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: normal
+}
+.googlemap{
+    display: inline-block;
+}
+.googlesmap{
+    display: inline-block;
+    margin-top: 93px;
+    margin-left: 172px;
+}
+.section1{
+width: 1660px;
+height: 735px;
+background: #E7E7E7;
+margin-top: 31px;
+}
+
+
 
